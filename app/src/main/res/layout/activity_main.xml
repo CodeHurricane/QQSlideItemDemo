@@ -1,0 +1,21 @@
+<com.example.administrator.qqslideitemdemo.SlidingItemMenuLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#ff8"
+        android:gravity="center"
+        android:text="从小习武，练就一身本领，我是三多" />
+    <TextView
+        android:background="#8f8"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:text="删除"
+        android:gravity="center"
+        />
+
+</com.example.administrator.qqslideitemdemo.SlidingItemMenuLayout>
